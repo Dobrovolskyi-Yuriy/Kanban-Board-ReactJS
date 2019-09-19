@@ -1,13 +1,15 @@
 # Kanban Board (ReactJS)
 
 ## To start the project:
-** 1. Start a project **
+***1. Start a project***
 ```
-yarn start
+yarn || npm i
+yarn start || npm start
 ```
 
-** 2. Start server **
+***2. Start server***
 ```
 cd server
-yarn start
+yarn || npm i
+yarn start || npm start
 ```
